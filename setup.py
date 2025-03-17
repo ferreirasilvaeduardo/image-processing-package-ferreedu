@@ -8,7 +8,7 @@ with open("requirements.txt") as f:
 
 setup(
     name="image_processing_ferreedu",
-    version="0.1.0",
+    version="0.0.0",
     author="Eduardo da Silva Ferreira",
     author_email="eduardo.s.ferreira@gmail.com",
     description="version - Image processing. This project belongs to Karina Tiemi Kato, Tech Lead, Machine Learning Engineer, Data Scientist Specialist at Take. This package is a demo for simulation of upload on the Test Pypi website, and it's from class of the Bootcamp developer full stack Python. E-mail:karinatkato@gmail.com.",
