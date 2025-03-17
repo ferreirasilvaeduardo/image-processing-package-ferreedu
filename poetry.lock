@@ -601,6 +601,18 @@ files = [
 ]
 
 [[package]]
+name = "pip"
+version = "25.0.1"
+description = "The PyPA recommended tool for installing Python packages."
+optional = false
+python-versions = ">=3.8"
+groups = ["main"]
+files = [
+    {file = "pip-25.0.1-py3-none-any.whl", hash = "sha256:c46efd13b6aa8279f33f2864459c8ce587ea6a1a59ee20de055868d8f7688f7f"},
+    {file = "pip-25.0.1.tar.gz", hash = "sha256:88f96547ea48b940a3a385494e181e29fb8637898f88d88737c5049780f196ea"},
+]
+
+[[package]]
 name = "pkginfo"
 version = "1.12.1.2"
 description = "Query metadata from sdists / bdists / installed packages."
@@ -951,4 +963,4 @@ type = ["pytest-mypy"]
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.11"
-content-hash = "6b0f7b72cc9e29afd41e383d23ecb38adcc7358b23ea4fd7af0d2a7106748526"
+content-hash = "15dc1a9607f79fe4739a7eedfd0bfeceddf2f2449f5c31abbc4ff8582a4a211d"
