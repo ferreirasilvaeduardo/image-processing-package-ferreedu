@@ -26,7 +26,8 @@ dependencies = [
     "twine",
     "urllib3",
     "webencodings",
-    "requests-toolbelt"
+    "requests-toolbelt",
+    "setuptools (>=76.0.0,<77.0.0)"
 ]
 
 [tool.poetry]
